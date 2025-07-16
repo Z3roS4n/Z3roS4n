@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/msworks"><img src="https://api.daily.dev/devcards/v2/LvRJ7KAlYe19O3kTtY57z.png?r=imf&type=default" width="356" alt="Antonio Murabito's Dev Card"/></a>
+<a href="https://app.daily.dev/msworks"><img src="https://api.daily.dev/devcards/v2/LvRJ7KAlYe19O3kTtY57z.png?type=wide&r=gfb" width="652" alt="Antonio Murabito's Dev Card"/></a>
