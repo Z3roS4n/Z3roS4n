@@ -53,9 +53,8 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 
 - 📧 Email: [antoniomurabito4@gmail.com](mailto:antoniomurabito4@gmail.com)
 - 📧 Email PEC: [antonio.murabito@pec.it](mailto:antonio.murabito@pec.it)
-- 🔗 [LinkedIn](https://www.linkedin.com/z3ros4n)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/z3ros4n/)
 - 📸 [Instagram](https://www.instagram.com/_antonio.jar) | [Instagram](https://www.instagram.com/msworks.arw)
-- 💼 [GitHub](https://github.com/Z3roS4n)
   
 ---
 
