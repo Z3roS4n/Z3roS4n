@@ -74,7 +74,7 @@ Since 2021, I've been working as a freelance Web Developer, specializing in the 
 
 ## ✨ GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Z3roS4n&theme=tokyonight&border_radius=5&gap=3)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3roS4n&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3roS4n&layout=compact&theme=tokyonight)
 
 
 
