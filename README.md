@@ -43,6 +43,8 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 
 ## 📌 Featured Projects
 
+- **RAG Implementation** – Advanced Retrieval Augmented Generation implementation.
+- **Murabito.eu Revamp** – Revamp of my Personal Portfolio, made in Next.js.
 - **ConverzIA.net** – Personal project showcasing AI-driven features and tools.  
 - **Development Web APIs** – Lightweight, reusable APIs for various web applications.  
 - **Next.js Forum Website** – Full-stack forum platform using Next.js and PostgreSQL.  
