@@ -11,7 +11,7 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 ## 🚀 About Me
 
 - 🔭 I work on personal and open-source projects to improve my skills and help the community.  
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **PostgreSQL**.  
+- 🌱 Currently exploring **Next.js**, **Web Sockets**, **REST APIs** and **GraphQL**.  
 - 💡 Interested in API design, modern front-end frameworks, and AI-driven tools.  
 - 🎯 Goal: Build clean, scalable, and developer-friendly solutions.
 
