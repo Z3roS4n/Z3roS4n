@@ -56,7 +56,7 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 - **M's Works Agency Site** – The official site of my agency, built with Next.js and focus on performance.
 - **Murabito.eu** – Personal Portfolio showcasing my full-stack journey.
 - **Development Web APIs** – Lightweight, reusable APIs for various web applications.
-- **Next.js Forum** – Full-stack platform using Next.js, Prisma, and PostgreSQL.
+- **Kaffettino Rebrewed** – Embedded device which interfaces with a REST API server and helps you buy coffee.
 
 ---
 
@@ -81,6 +81,11 @@ Founder of **M's Works**, a Palermo-based agency specializing in Custom Web Apps
 - **Security First:** Implementing "Security by Design" principles and GDPR compliance in all projects.
 - **Business Focus:** Solving business problems through tailored software solutions, not just writing code.
 
+### Lead Web Developer
+**Vivere Ateneo**
+*Sep 2025 – Present*
+Leading the technical team for the largest student association at the University of Palermo. I oversee the development and maintenance of the association's web platforms and internal tools, ensuring reliability for thousands of students and coordinating the dev team.
+
 ### Full-Stack Developer
 **Freelancer at BDGROUPSRL**
 *2025 – Present*
@@ -94,6 +99,7 @@ Started as a freelance Web Developer, gaining extensive experience in full-stack
 ---
 
 ## ✨ GitHub Stats
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Z3roS4n&theme=tokyo-night)
 
