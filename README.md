@@ -1,19 +1,19 @@
 # Hi there, I'm Z3roS4n (Antonio) 👋
 
-I’m a passionate Web Developer and Graphic Designer currently pursuing a degree in **Cyber Engineering** at the University of Palermo (Unipa).  
-With a solid foundation from my high school diploma, I’ve dedicated myself to mastering the digital world through full-stack web development, API optimization, authentication systems, and creative graphic design.
+I’m a passionate Web Developer and Graphic Designer currently pursuing a degree in **Cyber Engineering** at the University of Palermo (Unipa).
 
-I enjoy crafting innovative and user-friendly web solutions that help individuals, businesses, and professionals stand out online. Whether working as a freelancer or collaborating on larger projects, I strive to blend creativity with technology to deliver impactful results.
+In 2026, I officially launched **[M's Works](https://msworks.it)**, my digital agency dedicated to building secure, high-performance digital ecosystems. I combine an **engineering approach with creativity** to solve complex business problems, focusing on **Cybersecurity**, **Scalable Architectures**, and **AI Integration**.
 
+I enjoy crafting innovative and user-friendly web solutions that help individuals and businesses stand out. My goal isn't just to write code, but to deliver solid technical results that drive growth.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I work on personal and open-source projects to improve my skills and help the community.  
-- 🌱 Currently exploring **Next.js**, **Web Sockets**, **REST APIs** and **GraphQL**.  
-- 💡 Interested in API design, modern front-end frameworks, and AI-driven tools.  
-- 🎯 Goal: Build clean, scalable, and developer-friendly solutions.
+- 🔭 Leading development and security strategies at **M's Works**.
+- 🌱 Deeply exploring **Advanced Authentication**, **Security by Design**, and **RAG systems**.
+- 💡 Interested in Cloud Architecture, API optimization, and GDPR compliance.
+- 🎯 Goal: Build clean, scalable solutions capable of handling growth from 100 to 1M+ users.
 
 ---
 
@@ -28,7 +28,10 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Better Auth](https://img.shields.io/badge/-Better%20Auth-4B32C3?style=flat-square&logo=shield&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -43,50 +46,57 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-- **RAG Implementation** – Advanced Retrieval Augmented Generation implementation.
-- **Murabito.eu Revamp** – Revamp of my Personal Portfolio, made in Next.js.
-- **ConverzIA.net** – Personal project showcasing AI-driven features and tools.  
-- **Development Web APIs** – Lightweight, reusable APIs for various web applications.  
-- **Next.js Forum Website** – Full-stack forum platform using Next.js and PostgreSQL.  
+- **RAG Implementation** – Advanced Retrieval Augmented Generation implementation with OpenAI.
+- **M's Works Agency Site** – The official site of my agency, built with Next.js and focus on performance.
+- **Murabito.eu** – Personal Portfolio showcasing my full-stack journey.
+- **Development Web APIs** – Lightweight, reusable APIs for various web applications.
+- **Next.js Forum** – Full-stack platform using Next.js, Prisma, and PostgreSQL.
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [antoniomurabito4@gmail.com](mailto:antoniomurabito4@gmail.com)
+- 🌍 Agency: [msworks.it](https://msworks.it)
+- 📧 Agency Email: [business@murabito.eu](mailto:business@murabito.eu)
+- 📧 Personal Email: [antoniomurabito4@gmail.com](mailto:antoniomurabito4@gmail.com)
 - 📧 Email PEC: [antonio.murabito@pec.it](mailto:antonio.murabito@pec.it)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/z3ros4n/)
 - 📸 [Instagram](https://www.instagram.com/_antonio.jar) | [Instagram](https://www.instagram.com/msworks.arw)
-  
+
 ---
 
 ## 💼 Experience
 
+### Founder & Lead Developer
+**M's Works**
+*2026 – Present*
+Founder of **M's Works**, a Palermo-based agency specializing in Custom Web Apps and Digital Ecosystems.
+- **Technical Leadership:** Designing scalable cloud architectures (Next.js, Node) capable of handling high traffic.
+- **Security First:** Implementing "Security by Design" principles and GDPR compliance in all projects.
+- **Business Focus:** Solving business problems through tailored software solutions, not just writing code.
+
 ### Full-Stack Developer
-**Freelancer at BDGROUPSRL**  
-*2025 – Present*  
-Currently working as a freelance Web Developer for BDGROUPSRL, focusing on API server optimization and authentication system development. My role involves improving server performance, implementing secure authentication protocols, and optimizing database queries to enhance overall system efficiency. I work with modern technologies to ensure scalable and secure web solutions for enterprise-level applications.
+**Freelancer at BDGROUPSRL**
+*2025 – Present*
+Focusing on API server optimization, secure authentication protocols, and database query performance for enterprise-level applications.
 
 ### Full-Stack Web Developer
-**Freelancer**  
-*2021 – Present*  
-Since 2021, I've been working as a freelance Web Developer, specializing in the design and development of modern, dynamic, and customized websites for businesses and individuals. My goal is to provide functional, user-friendly, and SEO-optimized solutions to ensure maximum online visibility for my clients. I use modern technologies to create functional, responsive, and user experience-optimized platforms, including full-stack development, database optimization, and performance tuning.
+**Freelancer**
+*2021 – 2026*
+Started as a freelance Web Developer, gaining extensive experience in full-stack development, database optimization, and performance tuning, serving clients across Italy.
 
 ---
 
 ## ✨ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3roS4n&layout=compact&theme=tokyonight)
-
-
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Z3roS4n&theme=tokyo-night)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaborations or feedback.*
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaborations.*
