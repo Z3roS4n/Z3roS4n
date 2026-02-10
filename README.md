@@ -11,7 +11,7 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 ## 🚀 About Me
 
 - 🔭 Leading development and security strategies at **M's Works**.
-- 🌱 Deeply exploring **Advanced Authentication**, **Security by Design**, and **RAG systems**.
+- 🌱 Deeply exploring **System Design**, **Advanced Authentication**, **Security by Design**, and **RAG systems**.
 - 💡 Interested in Cloud Architecture, API optimization, and GDPR compliance.
 - 🎯 Goal: Build clean, scalable solutions capable of handling growth from 100 to 1M+ users.
 
