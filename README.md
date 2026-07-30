@@ -4,7 +4,7 @@ I’m a passionate Web Developer and Graphic Designer currently pursuing a degre
 
 In 2026, I officially launched **[M's Works](https://msworks.it)**, my digital agency dedicated to building secure, high-performance digital ecosystems. I combine an **engineering approach with creativity** to solve complex business problems, focusing on **Cybersecurity**, **Scalable Architectures**, and **AI Integration**.
 
-I enjoy crafting innovative and user-friendly web solutions that help individuals and businesses stand out. My goal isn't just to write code, but to deliver solid technical results that drive growth.
+I enjoy crafting innovative and user-friendly web solutions that help individuals and businesses stand out. My goal isn't just to write code, but to deliver solid technical results that drive growth. Today, M's Works designs, builds and maintains a growing portfolio of production systems across fintech, hospitality and e-commerce, alongside a full internal suite (billing, operations, security tooling) that runs the agency itself.
 
 ---
 
@@ -46,16 +46,34 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-- **RAG Implementation** – Advanced Retrieval Augmented Generation implementation with OpenAI.
-- **M's Works Agency Site** – The official site of my agency, built with Next.js and focus on performance.
-- **Murabito.eu** – Personal Portfolio showcasing my full-stack journey.
-- **Development Web APIs** – Lightweight, reusable APIs for various web applications.
-- **Kaffettino Rebrewed** – Embedded device which interfaces with a REST API server and helps you buy coffee.
+### 🏢 M's Works — Agency Products
+- **[msworks.it](https://msworks.it)** — the agency's own site, built with Next.js and Sanity CMS.
+- **Internal Ops Suite** — a self-hosted, Raspberry Pi-native operations platform, with satellite apps for team scheduling and an encrypted credentials vault (AES-256-GCM, real-time sync).
+- **Electronic Invoicing System** — manages Italian *fattura elettronica* (TD16–TD20), payment tracking and automated WhatsApp reminders for agency clients.
+- **Outreach OS** — an AI-assisted lead-generation CRM that sources and qualifies prospects for the agency's own pipeline.
+
+### 🤝 Client Projects
+- **Finanza Mille** — a subscription-based financial education platform (courses, articles, community, live chat), migrated to a fully self-owned Next.js/Supabase stack.
+- **Priolo the Barbers** — a booking PWA for a historic Palermo barbershop (est. 1982), with online booking, a staff back office and WhatsApp reminders.
+- **Meta Gaming Pub Ecosystem** — a set of integrated apps for a Palermo gaming pub: a fidelity/loyalty platform (NestJS + GraphQL), a QR digital menu & ordering system, and an interactive board-game catalog with an AI assistant.
+- **Studler** — a pre-order e-commerce storefront with inventory, coupon and anti-bot logic.
+- Additional client work spanning restaurant menu systems, coaching/personal-brand sites and training platforms.
+
+### 🧪 AI & R&D
+- **Scriba** — a fully local desktop app (Electron + Python) that transcribes and summarizes work calls in real time, no audio ever leaving the machine.
+- **Video2Markdown** — turns lecture recordings into structured study notes with Whisper + GPT-4o.
+- **Algo-trading research** — an ML-driven trading bot, currently in a paper-trading phase, steerable via MCP.
 
 ---
 
