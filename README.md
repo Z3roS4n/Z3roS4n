@@ -98,7 +98,7 @@ that runs the agency itself.
 
 | Project | What it does |
 |---|---|
-| **Finanza Mille** | Subscription-based financial education platform — courses, articles, community, live chat |
+| **FinanzAmille** | Subscription-based financial education platform — courses, articles, community, live chat |
 | **Priolo the Barbers** | Booking PWA for a historic Palermo barbershop (est. 1982) — online booking, staff back office, WhatsApp reminders |
 | **Meta Gaming Pub Ecosystem** | Fidelity/loyalty platform (NestJS + GraphQL), QR digital menu & ordering, interactive board-game catalog with AI assistant |
 | **Studler** | Pre-order e-commerce storefront — inventory, coupons, anti-bot logic |
