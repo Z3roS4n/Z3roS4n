@@ -59,9 +59,11 @@ I enjoy crafting innovative and user-friendly web solutions that help individual
 
 ### 🏢 M's Works — Agency Products
 - **[msworks.it](https://msworks.it)** — the agency's own site, built with Next.js and Sanity CMS.
-- **Internal Ops Suite** — a self-hosted, Raspberry Pi-native operations platform, with satellite apps for team scheduling and an encrypted credentials vault (AES-256-GCM, real-time sync).
+- **NoCaOS** — a self-hosted internal operations platform, with satellite apps for team scheduling and an encrypted credentials vault (AES-256-GCM, real-time sync).
 - **Electronic Invoicing System** — manages Italian *fattura elettronica* (TD16–TD20), payment tracking and automated WhatsApp reminders for agency clients.
 - **Outreach OS** — an AI-assisted lead-generation CRM that sources and qualifies prospects for the agency's own pipeline.
+- **Banking Sync API** — an internal gateway that syncs business bank accounts and transactions into a shared database, exposed via a REST API for other internal tools to consume.
+- **Workflow Engine** *(in development)* — an internal automation/workflow tool currently being designed.
 
 ### 🤝 Client Projects
 - **Finanza Mille** — a subscription-based financial education platform (courses, articles, community, live chat), migrated to a fully self-owned Next.js/Supabase stack.
