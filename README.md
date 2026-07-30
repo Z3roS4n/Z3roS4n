@@ -122,9 +122,9 @@ that runs the agency itself.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z3ros4n/)
 [![Instagram](https://img.shields.io/badge/@_antonio.jar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_antonio.jar)
 [![Instagram](https://img.shields.io/badge/@msworks.arw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msworks.arw)
-[![Gmail](https://img.shields.io/badge/antoniomurabito4-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomurabito4@gmail.com)
+[![Gmail](https://img.shields.io/badge/antonio.murabito@msworks.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.murabito@msworks.it)
 
-📧 Agency: [business@murabito.eu](mailto:business@murabito.eu) &nbsp;·&nbsp; 📧 PEC: [antonio.murabito@pec.it](mailto:antonio.murabito@pec.it)
+📧 Agency: [antonio.murabito@msworks.it](mailto:antonio.murabito@msworks.it) &nbsp;·&nbsp; 📧 PEC: [antonio.murabito@pec.it](mailto:antonio.murabito@pec.it)
 
 </div>
 
@@ -140,9 +140,6 @@ Palermo-based agency specializing in custom web apps and digital ecosystems.
 
 **Lead Web Developer** — Vivere Ateneo · `Sep 2025 – Present`
 Leading the technical team for the largest student association at the University of Palermo — development and maintenance of the association's web platforms and internal tools for thousands of students.
-
-**Full-Stack Developer** — Freelancer @ BDGROUPSRL · `2025 – Present`
-API server optimization, secure authentication protocols, and database query performance for enterprise-level applications.
 
 **Full-Stack Web Developer** — Freelancer · `2021 – 2026`
 Full-stack development, database optimization, and performance tuning for clients across Italy.
